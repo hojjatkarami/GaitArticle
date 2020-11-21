@@ -1,0 +1,2 @@
+# GaitArticle
+This repository belongs to paper (https://www.researchgate.net/publication/344510204_There_is_a_time_shift_between_muscle_synergies_and_kinematic_synergies_during_normal_gait)
